@@ -25,6 +25,12 @@
 		<jacoco.version>0.7.9</jacoco.version>
 	</properties>
 
+	<properties>
+  		<sonar.projectKey>cbabu85_devops-1</sonar.projectKey>
+  		<sonar.organization>cbabu85</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+	
 	<distributionManagement>
 		<repository>
 			<id>release</id>
